@@ -14,10 +14,12 @@ menu:
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
+  # About: /about/ || fas fa-heart
+
+menu_after:
   Github: https://github.com/mimeku || fab fa-github
   ZhiHu: https://www.zhihu.com/people/mimeku || iconfont icon-zhihu
   Email: mailto:mimeku59@gmail.com || fas fa-envelope
-  # About: /about/ || fas fa-heart
 
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: false
@@ -931,3 +933,7 @@ CDN:
   prismjs_js: https://cdn.jsdelivr.net/npm/prismjs/prism.min.js
   prismjs_lineNumber_js: https://cdn.jsdelivr.net/npm/prismjs/plugins/line-numbers/prism-line-numbers.min.js
   prismjs_autoloader: https://cdn.jsdelivr.net/npm/prismjs/plugins/autoloader/prism-autoloader.min.js
+
+  # ionic Toggle
+  ionic_css: https://cdn.staticfile.org/ionic/1.3.2/css/ionic.css
+  ionic_js: https://cdn.staticfile.org/ionic/1.3.2/js/ionic.bundle.min.js
